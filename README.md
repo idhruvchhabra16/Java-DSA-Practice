@@ -1,1 +1,1 @@
-# Java-DSA-Pratice
+# Java-DSA-Practice
